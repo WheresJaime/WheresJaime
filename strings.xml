@@ -2,7 +2,8 @@
 
 <strings>
     <!-- Mentions -->
-    <str id="default">X days since Jaime @HerreraBeutler had an in-person town hall. #FlipThe3rd</str>
+    <!-- id 000 is default -->
+    <str id="000">X days since Jaime @HerreraBeutler had an in-person town hall. #FlipThe3rd</str>
     <str id="001">X days since your last in-person town hall. Why won’t you come talk with us, Jaime @HerreraBeutler? #FlipThe3rd</str>
     <str id="002">Have you seen Jaime @HerreraBeutler?! She hasn’t hosted an in-person town hall for X days now! #FlipThe3rd</str>
     <str id="003">Jaime @HerreraBeutler, don’t you think it’s time to come talk to us in person? It’s been X days! #FlipThe3rd</str>
