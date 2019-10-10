@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<strings>
+    <!-- Mentions -->
+    <str id="default">X days since Jaime @HerreraBeutler had an in-person town hall. #FlipThe3rd</str>
+    <str id="001">X days since your last in-person town hall. Why won’t you come talk with us, Jaime @HerreraBeutler? #FlipThe3rd</str>
+    <str id="002">Have you seen Jaime @HerreraBeutler?! She hasn’t hosted an in-person town hall for X days now! #FlipThe3rd</str>
+    <str id="003">Jaime @HerreraBeutler, don’t you think it’s time to come talk to us in person? It’s been X days! #FlipThe3rd</str>
+    <str id="004">X days and counting since your last in-perosn town hall. We’re waiting, Jaime @HerreraBeutler. #FlipThe3rd</str>
+    <str id="005">Jaime @HerreraBeutler cares more about Trump’s opinion than ours. X days since her last in-person town hall. #FlipThe3rd</str>
+    <str id="006">Jaime @HerreraBeutler, were you elected to represent us, or ignore us? X days since your last in-person town hall. #FlipThe3rd</str>
+    <str id="007">Jaime @HerreraBeutler, are you scared of us? X days since your last in-person town hall! #FlipThe3rd</str>
+    <str id="008">X days. Let that sink in. X days of hiding from her constituents. @HerreraBeutler #FlipThe3rd</str>
+    <str id="009">.@AOC could you talk to Jaime @HerreraBeutler for us? We haven’t had an in-person town hall with her in X days. #FlipThe3rd</str>
+    <str id="010">We miss you, Jaime @HerreraBeutler. Come talk to us in person. It’s been X days. #FlipThe3rd</str>
+    <str id="011">Pay attention to your constituents, Jaime @HerreraBeutler! We haven’t seen you in X days! #FlipThe3rd</str>
+    <str id="012">Jaime @HerreraBeutler is MIA. WA-3 hasn’t seen her face in X days! #FlipThe3rd</str>
+    <str id="013">I bet @ElectLong wouldn’t go X days without facing her constituents, Jaime @HerreraBeutler #FlipThe3rd</str>
+    <str id="014">X days since you’ve shown your face to the public in District 3, Jaime @HerreraBeutler. You proud of that, coward? #FlipThe3rd</str>
+    <str id="015">X days, Jaime @HerreraBeutler. X Days. X DAYS! Can’t hack it when the questions aren’t screened by your staffers? #FlipThe3rd</str>
+    <str id="016">Spread the word. Jaime @HerreraBeutler is afraid of her constituents. She hasn’t faced us in X days. #FlipThe3rd</str>
+    <str id="017">I’m no PoliSci major, but X days without speaking with your constituents seems like a lot. Comment @HerreraBeutler? #FlipThe3rd</str>
+    <str id="018">Imgn going X days w/out tlkng to your boss. That’s what @HerreraBeutler is doing. Come home for a performance review. #FlipThe3rd</str>
+    <str id="019">Only a coward would go X days without facing their constituents Jaime @HerreraBeutler. #FlipThe3rd</str>
+    <str id="020">Friends don’t let friends vote Republican. Step aside, Jaime @HerreraBeutler. @ElectLong wouldn’t ignore us for X days. #FlipThe3rd</str>
+    <str id="021">If I didn’t show up for work for X days, I’d be fired. What makes you so special, Jaime @HerreraBeutler? #FlipThe3rd</str>
+    <str id="022">Fewer photo ops, more town halls, Jaime @HerreraBeutler! It’s been X days! #FlipThe3rd</str>
+    <str id="023">I spent more time writing this bot than Jaime @HerreraBeutler has spent in in-person town halls for the last X days! #FlipThe3rd</str>
+    <str id="024">We’d like a word with you, Jaime @HerreraBeutler. I guess you wouldn’t know that since we haven’t seen you in X days.  #FlipThe3rd</str>
+    <str id="025">X: The number of days since Jaime @HerreraBeutler had an in person town hall. Shameful.  #FlipThe3rd</str>
+    <str id="026">They could make your story a documentary, Jaime @HerreraBeutler. Avoiding constituents for X days is impressive.  #FlipThe3rd</str>
+    <str id="027">What do you spend your time doing if not talking with your constituents Jaime @HerreraBeutler? X days!  #FlipThe3rd</str>
+    <str id="028">Jaime @HerreraBeutler, avoiding your constituents is undemocratic. X days since your last in-person own hall. #FlipThe3rd</str>
+    <str id="029">Can’t know what we want if you don’t come talk to us Jaime @HerreraBeutler. X days and counting. Tick Tock! #FlipThe3rd</str>
+    <str id="030">Even @Comcast is more attuned to my needs than you are, Jaime @HerreraBeutler. You’re such a joke. X days! #FlipThe3rd</str>
+    <str id="031">Another day in WA-3 without a glimpse of Jaime @HerreraBeutler. That makes X days without a town hall. #FlipThe3rd</str>
+    <str id="032">Knock Knock. Who's there? Not Jaime @HerreraBeutler. For X days now. #FlipThe3rd</str>
+
+    <!-- Heroes -->
+    <str id="501">Hero 1</str>
+    <str id="502">Hero 2</str>
+    <str id="503">Hero 3</str>
+    <str id="504">Hero 4</str>
+    <str id="505">Hero 5</str>
+    <str id="506">Hero 6</str>
+    <str id="507">Hero 7</str>
+    <str id="508">Hero 8</str>
+
+    <!-- Replies -->
+    <str id="901">Reply 1</str>
+    <str id="902">Reply 2</str>
+    <str id="903">Reply 3</str>
+    <str id="904">Reply 4</str>
+    <str id="905">Reply 5</str>
+    <str id="906">Reply 6</str>
+    <str id="907">Reply 7</str>
+    <str id="908">Reply 8</str>
+</strings>

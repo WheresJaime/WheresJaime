@@ -1,4 +1,6 @@
 # Build and Release Folders
+.idea/
+venv/
 bin-debug/
 bin-release/
 [Oo]bj/

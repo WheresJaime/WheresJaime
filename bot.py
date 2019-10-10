@@ -1,11 +1,19 @@
 import xml.etree.ElementTree as ET
 import tweepy
 
-def main():
-  conf = ET.parse('config.xmls')
+# 130, 200, 230
 
-  auth = tweepy.OAuthHandler("rhAY860C1DuGoUfFJoF2tgv6K", "3gXa5BCKGzkKaIlVFwAgMplpVa4MmO47i4TsOO66TmO4lsLYSa")
-  auth.set_access_token("1182123915239288832-4Nc2JXBTcykBHruWQ0VzWbGg5JMAXU", "mdkhYQToTKwvTBPsux1EzyTiw8Hc8VBW5eNqNg33ci7xa")
+def main(arg):
+  """
+  Entry Point
+  :param x: 0 for check. 1 for scheduled post
+  :return: none
+  """
+  conf = ET.parse('config.xmls')
+  confRoot = conf.getroot()
+
+  auth = tweepy.OAuthHandler(confRoot[0].text, confRoot[1].text)
+  auth.set_access_token(confRoot[2].text, confRoot[3].text)
 
   api = tweepy.API(auth)
 
@@ -13,9 +21,16 @@ def main():
     api.verify_credentials()
   except:
     print("Twitter authentication failed.")
+    exit(-1)  # Exit code -1: Twitter Auth error
 
-  api.update_status(".@littelbro14 This is a test of the 'at' system.");
+  if arg == 0:  # Check
+    pass
+  elif arg == 1:  # Scheduled Post
+    pass
+  else:
+    print("Unrecognized arg. Called with ", type(arg), ": ", arg)
+    exit(-2)  # Exit code -2: Bad Arg
 
 
 if __name__ == "__main__":
-  main()
+  main('x')
