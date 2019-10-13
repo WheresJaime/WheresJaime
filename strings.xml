@@ -37,6 +37,14 @@
     <str id="031">Another day in WA-3 without a glimpse of Jaime @HerreraBeutler. That makes X days without a town hall. #FlipThe3rd</str>
     <str id="032">Knock Knock. Who's there? Not Jaime @HerreraBeutler. For X days now. #FlipThe3rd</str>
 
+    <!-- Specials -->
+    <str id="110">Returned to mode 0. This should never happen.</str>
+    <!--<str id="111">Congresswoman Jaime Herrera-Beutler has blocked this account. That's probably unconstitutional. See Knight Institute v. Trump. https://en.wikipedia.org/wiki/Knight_First_Amendment_Institute_v._Trump Switching to passive mode. X Days. #FlipThe3rd</str>-->
+    <str id="111">Block test</str>
+    <str id="112">Congresswoman Jaime Herrera-Beutler has opted out by admitting she doesn't care about her
+        constituents. What a champion of the people. Switching to passive mode. X days. #FlibThe3rd
+    </str>
+
     <!-- Heroes -->
     <str id="501">Hero 1</str>
     <str id="502">Hero 2</str>

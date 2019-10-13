@@ -1,10 +1,7 @@
 <cache>
-    <!--
-        Modes
-        0 - Active
-        1 - Blocked
-        2 - Passive (JHB Opted Out) -->
-    <mode>0</mode>
+
+    <mode>1</mode>
     <lastPostTime>0</lastPostTime>
-    <lastTargetPost>1182798750848311296</lastTargetPost>
+    <lastTargetPost>1182853202112200707</lastTargetPost>
+    <lastDmId>0</lastDmId>
 </cache>
