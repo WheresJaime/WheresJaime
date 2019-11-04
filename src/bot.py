@@ -4,9 +4,9 @@ from random import choice
 
 import boto3
 import botocore
-from tweepy import TweepError
 
 from libs import tweepy
+from libs.tweepy.error import TweepError
 
 
 class Bot:

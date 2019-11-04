@@ -1,6 +1,7 @@
 from datetime import datetime
 
-from src import bot
+# Ignore unresolved reference
+import bot # This will never be called when stored locally, so no need to specify the src folder
 
 
 def lambda_handler(event, context):
