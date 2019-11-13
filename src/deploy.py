@@ -4,7 +4,7 @@ import shutil
 from distutils.dir_util import copy_tree
 from zipfile import ZipFile
 
-# EXCLUDE = ['__init__.py', 'cache.xml', 'README.md', 'LICENSE']
+# EXCLUDE = ['cache.xml', 'README.md', 'LICENSE']
 
 # Cleanup compile python files. They're useless to AWS
 for file in glob.glob("**/*.pyc", recursive=True):

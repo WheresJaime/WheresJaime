@@ -8,11 +8,13 @@ for consuming and providing OAuth 2.0 RFC6749.
 """
 from __future__ import absolute_import, unicode_literals
 
+import functools
 import logging
 
 from .endpoints.base import BaseEndpoint
 from .endpoints.base import catch_errors_and_unavailability
-from .errors import FatalClientError, OAuth2Error
 from .errors import TemporarilyUnavailableError, ServerError
+from .errors import FatalClientError, OAuth2Error
+
 
 log = logging.getLogger(__name__)

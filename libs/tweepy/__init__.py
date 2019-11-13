@@ -9,13 +9,17 @@ __version__ = '3.8.0'
 __author__ = 'Joshua Roesslein'
 __license__ = 'MIT'
 
-from libs.tweepy import API
-from libs.tweepy.auth import AppAuthHandler, OAuthHandler
+from tweepy.api import API
+from tweepy.auth import AppAuthHandler, OAuthHandler
+from tweepy.cache import Cache, FileCache, MemoryCache
+from tweepy.cursor import Cursor
+from tweepy.error import RateLimitError, TweepError
+from tweepy.models import DirectMessage, Friendship, ModelFactory, SavedSearch, SearchResults, Status, User
+from tweepy.streaming import Stream, StreamListener
 
 # Global, unauthenticated instance of API
 api = API()
 
-
 def debug(enable=True, level=1):
-  from libs.six import HTTPConnection
-  HTTPConnection.debuglevel = level
+    from six.moves.http_client import HTTPConnection
+    HTTPConnection.debuglevel = level
